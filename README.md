@@ -12,19 +12,25 @@ The search engine component queries the index for a particular search string and
 webite and image results to the user. For a comprehensive guide of the application see [Documentation](Documentation.pdf)
 
 ## Features
-- #### Web search
+
+### Web search
+
 <img src="preview/WebSearchResultsPreview.png" />
 
-- #### Image search
+### Image search
+
 <img src="preview/ImageSearchResultsPreview.png" />
 
-- #### Customizable workers
+### Customizable workers
+
 <img src="preview/WorkerPreview.png" />
 
-- #### Configurable crawler
+### Configurable crawler
+
 <img src="preview/CrawlerSettingsPreview.png" />
 
-- #### View page result URL node data
+### View page result URL node data
+
 <img src="preview/DataInfoPreview.png" />
 
 ## Installation
